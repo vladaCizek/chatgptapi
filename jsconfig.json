@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@constants/*": [
+        "./src/constants/*"
+      ],
+      "@composables/*": [
+        "./src/composables/*"
+      ],
+      "@utils/*": [
+        "./src/utils/*"
+      ],
+      "@mixins/*": [
+        "./src/mixins/*"
+      ],
+      "@directives/*": [
+        "./src/directives/*"
+      ],
+      "@directives": [
+        "./src/directives/index.js",
+      ],
+      "@atoms": [
+        "./src/components/atoms/index.js"
+      ],
+      "@molecules/*": [
+        "./src/components/molecules/*"
+      ],
+      "@molecules": [
+        "./src/components/molecules/index.js"
+      ],
+      "@organisms/*": [
+        "./src/components/organisms/*"
+      ],
+      "@organisms": [
+        "./src/components/organisms/index.js"
+      ]
+    }
+  }
+}
