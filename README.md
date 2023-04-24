@@ -1,3 +1,7 @@
+# Caution
+
+Please note that this project is intended as a playground to test how to implement the ChatGPT API, and is not intended for production use. It is not optimized for performance, reliability, or security, and may contain bugs or errors that could lead to unexpected results. While we have taken care to ensure that the project is functioning correctly, we make no guarantees about its suitability for any particular purpose, and we strongly recommend against using it in a production environment. Instead, we suggest using this project solely for experimentation and learning purposes.
+
 # Installation
 
 To install the necessary dependencies, run the following command:
