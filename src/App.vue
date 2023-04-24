@@ -1,5 +1,6 @@
 <template>
-  <CompletionSettingsModal
+  <router-view />
+  <!-- <CompletionSettingsModal
     v-if="showCompletionSettingsModal"
     @closeModal="closeCompletionSettingsModal"
   />
@@ -10,7 +11,7 @@
       <ChatError v-if="hasErrors" :errorDetails="errorDetails" />
       <Messages v-else />
     </main>
-  </div>
+  </div> -->
 </template>
 
 <script>

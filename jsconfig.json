@@ -34,6 +34,9 @@
       ],
       "@organisms": [
         "./src/components/organisms/index.js"
+      ],
+      "@pages": [
+        "./src/pages"
       ]
     }
   }
